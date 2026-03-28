@@ -1,20 +1,20 @@
 # 📘 Digital Literacy Project
 
-## 📌 Project Overview
+##  Project Overview
 The **Digital Literacy Project** aims to educate individuals about essential digital skills required in today's technology-driven world. This project focuses on helping users understand how to use digital devices, access online services, and stay safe while using the internet.
 
 It is especially useful for beginners, rural communities, and non-technical users to improve their confidence in using digital platforms.
 
 ---
 
-## 👨‍🎓 Student Details
+##  Student Details
 - **Name:** Daksh Sirohi  
 - **Registration Number:** 25BCE10909  
 - **Course/Module:** Digital Literacy / IT Awareness Module  
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - To promote digital awareness among users  
 - To teach basic computer and internet skills  
 - To educate about online safety and cybersecurity  
@@ -23,7 +23,7 @@ It is especially useful for beginners, rural communities, and non-technical user
 
 ---
 
-## 📚 Module Summaries
+##  Module Summaries
 
 ### 1. Basic Computer Skills
 Introduction to computers, input/output devices, and basic operations.
@@ -44,15 +44,15 @@ Introduction to UPI, mobile banking, and safe online transactions.
 
 ## 🔗 Important Links
 
-- 📊 **Feedback / Survey Form:**  
+-  **Feedback / Survey Form:**  
   https://forms.gle/sa5MHW7rq6jEAit17  
 
-- 💻 **GitHub Repository:**  
+-  **GitHub Repository:**  
   https://github.com/sirohidaksh210-hash/Digital-Literacy-Project 
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 - Add interactive quizzes  
 - Include video tutorials  
 - Create a live demo website  
@@ -60,7 +60,7 @@ Introduction to UPI, mobile banking, and safe online transactions.
 
 ---
 
-## 📢 Conclusion
+##  Conclusion
 This project helps bridge the digital gap by providing essential knowledge and practical guidance for safe and effective use of digital technologies.
 
 ---
