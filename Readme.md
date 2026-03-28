@@ -1,4 +1,4 @@
-# 📘 Digital Literacy Project
+#  Digital Literacy Project
 
 ##  Project Overview
 The **Digital Literacy Project** aims to educate individuals about essential digital skills required in today's technology-driven world. This project focuses on helping users understand how to use digital devices, access online services, and stay safe while using the internet.
@@ -65,5 +65,5 @@ This project helps bridge the digital gap by providing essential knowledge and p
 
 ---
 
-## 🙌 Acknowledgement
+##  Acknowledgement
 I would like to thank my instructors and peers for their guidance and support in completing this project.
